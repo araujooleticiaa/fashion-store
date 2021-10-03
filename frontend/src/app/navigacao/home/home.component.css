@@ -1,0 +1,32 @@
+div.container{
+    width: 100%;
+    margin-top:10px;
+    margin: 0 auto;
+    padding: 10px 80px;
+}
+div.container h1{
+    font-size: 25px;
+    text-align: center;
+}
+div.wraper{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.produto{
+    margin: 0 5px;
+    padding: 8px 5px;
+    text-align: center;
+    -webkit-box-shadow: -2px 5px 8px 0px rgba(120,120,120,0.27); 
+    box-shadow: -2px 5px 8px 0px rgba(120,120,120,0.15);
+}
+div.produto img{
+    width: 70%;
+}
+div.produto div.box-produto h1{
+    font-size: 22px;
+}
+div.produto div.box-produto p{
+    font-size: 19px;
+}
