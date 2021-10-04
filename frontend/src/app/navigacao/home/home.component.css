@@ -6,6 +6,7 @@ div.container{
 }
 div.container h1{
     font-size: 25px;
+    margin-top: 10px;
     text-align: center;
 }
 div.wraper{
@@ -16,7 +17,7 @@ div.wraper{
 }
 div.produto{
     margin: 0 5px;
-    padding: 8px 5px;
+    padding: 50px 10px;
     text-align: center;
     -webkit-box-shadow: -2px 5px 8px 0px rgba(120,120,120,0.27); 
     box-shadow: -2px 5px 8px 0px rgba(120,120,120,0.15);
@@ -29,4 +30,12 @@ div.produto div.box-produto h1{
 }
 div.produto div.box-produto p{
     font-size: 19px;
+    margin-bottom: 20px;
+}
+div.produto div.box-produto a{
+    text-decoration: none;
+    color: #105222;
+    padding: 10px 20px;
+    font-weight: bold;
+    background-color: #44db6c;
 }

@@ -1,0 +1,12 @@
+<img src="https://images.unsplash.com/photo-1593854586136-2edae149504c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1331&q=80" width="400" height="450" style="border:0;"  alt="" srcset="">
+<div class="container">
+    <h1>Entre em contato conosco!</h1>
+    <form (ngSubmit)="submit()" [formGroup]="camposForm">
+        <input type="text" placeholder="Nome" formControlName="nome" value="nome">
+        <input type="text" placeholder="Email"formControlName="email" value="email">
+        <textarea name="message" formControlName="mensagem" placeholder="Mensagem"></textarea>
+        <button type="submit">
+            Enviar
+        </button>
+    </form>
+</div>
