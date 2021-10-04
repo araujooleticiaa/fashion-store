@@ -6,7 +6,7 @@
 Fashion Store Project, to apply the angular 8 concepts of BRQ PDI project!
 
 ## <p>📚 See in real time </p>
-<h1><a href="https://hungry-hugle-03ae27.netlify.app/home">
+<h1><a href="https://hungry-hugle-03ae27.netlify.app/">
 Click here
 </a></h1>
 
