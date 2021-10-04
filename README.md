@@ -2,10 +2,15 @@
   Project  - Fashion Store
 </h1>
 
-## <p>📚 Conceito </p>
+## <p>📚 Concept </p>
 Fashion Store Project, to apply the angular 8 concepts of BRQ PDI project!
 
-## <p id='tecnologies'>💻 Tecnologia </p>
+## <p>📚 See in real time </p>
+<h1><a href="https://hungry-hugle-03ae27.netlify.app/home">
+Click here
+</a></h1>
+
+## <p>💻 Technology </p>
 
 This project was developed with the following technology:
 
@@ -15,8 +20,9 @@ This project was developed with the following technology:
 -  Javascrit
 -  Routes
 -  React Forms
+-  Netlify
 
-## <p>💻 Como usar </p>
+## <p>💻 How to use </p>
 
 To clone and run this application, from the command line:
 
